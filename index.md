@@ -22,9 +22,9 @@ ext-js:
 
 #### Breast Surgeon
 
-<a href="/contact" class="actionbtn">
+<a href="/getintouch" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
-  Contact Us
+  Get in Touch
 </a>
 {: .actionbtn-out :}
 
@@ -55,9 +55,9 @@ ext-js:
       </div>
     </div>
 
-    <a href="/contact" class="actionbtn">
+    <a href="/getintouch" class="actionbtn">
       <span class="far fa-envelope" aria-hidden="true"></span>
-      Contact Us
+      Get in touch
     </a>
   </div>
 </div>

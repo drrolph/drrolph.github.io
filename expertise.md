@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact Us
-share-title: JV Sports | Contact Us
+title: Expertise
+share-title: Dr Rachel Rolph | Expertise
 ---
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
