@@ -11,6 +11,7 @@ round-avatar: true
 navbar-links:
 
   #About Us: "/#aboutus"
+  Test: "/test"
   About Me: "/aboutme"
   Expertise: "/expertise"
   Breast Check Ups: "/breastcheckups"
