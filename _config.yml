@@ -1,8 +1,8 @@
 remote_theme: daattali/beautiful-jekyll
 
-title: JV Sports
+title: Dr Rachel Rolph
 
-author: JV Sports Ltd
+author: Dr Rachel Rolph
 
 avatar: "/assets/img/jvlogo.jpg"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
@@ -10,8 +10,15 @@ round-avatar: true
 
 navbar-links:
 
-  About Us: "/#aboutus"
-  Contact Us: "/contact"
+  #About Us: "/#aboutus"
+  About Me: "/aboutme"
+  Expertise: "/expertise"
+  Breast Check Ups: "/breastcheckups"
+  Surgery: "/surgery"
+  Research: "/research"
+  Wellbeing: "/wellbeing"
+  Blog: "/blog"
+  Get in Touch: "/getintouch"
 
 title-img: /assets/img/jvsportslogo.jpg
 

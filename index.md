@@ -130,9 +130,9 @@ ext-js:
   <div id="cta">
     <div class="section-title">Contact us today to see what services are available</div><br/>
   </div>
-  <a href="/contact" class="actionbtn">
+  <a href="/getintouch" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
-    Contact Us
+    Get in Touch
   </a>
 </div>
 
