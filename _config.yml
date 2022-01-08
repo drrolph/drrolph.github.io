@@ -18,7 +18,7 @@ navbar-links:
   Surgery: "/surgery"
   Research: "/research"
   Wellbeing: "/wellbeing"
-  Blog: "/blog"
+  Blog: "/#news"
   Get in Touch: "/getintouch"
 
 title-img: /assets/img/jvsportslogo.jpg

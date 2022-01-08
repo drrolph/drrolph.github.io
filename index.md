@@ -18,9 +18,8 @@ ext-js:
 
 # Dr Rachel Rolph {#title}
 
-## Dr Rachel Rolph {#subtitle}
+## Breast Surgeon {#subtitle}
 
-#### Breast Surgeon
 
 <a href="/getintouch" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
